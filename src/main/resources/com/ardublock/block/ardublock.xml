@@ -2724,19 +2724,15 @@
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Carobot_O6" kind="data" color="214 169 54"
-			initlabel="bg.Carobot_O6" editable-label="no">
+		<BlockGenus name="Carobot_O6" kind="data" color="214 169 54" initlabel="bg.Carobot_O6" editable-label="no">
 			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"
-					label="mirror">
-				</BlockConnector></BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
+			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Carobot_O7" kind="data" color="214 169 54"
-			initlabel="bg.Carobot_O7" editable-label="no">
+		<BlockGenus name="Carobot_O7" kind="data" color="214 169 54" initlabel="bg.Carobot_O7" editable-label="no">
 			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"
-					label="mirror">
-				</BlockConnector></BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
+			</BlockConnectors>
 		</BlockGenus>
 		<BlockGenus name="Carobot_M1" kind="data" color="195 38 50"
 			initlabel="bg.Carobot_M1" editable-label="no">
@@ -10373,6 +10369,8 @@
 			<FamilyMember>Carobot_O3</FamilyMember>
 			<FamilyMember>Carobot_O4</FamilyMember>
 			<FamilyMember>Carobot_O5</FamilyMember>
+			<FamilyMember>Carobot_O6</FamilyMember>
+			<FamilyMember>Carobot_O7</FamilyMember>
 		</BlockFamily>'
 		<BlockFamily>
 			<FamilyMember>Carobot_M1</FamilyMember>
